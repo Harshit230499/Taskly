@@ -1,1 +1,1 @@
-web: gunicorn fintro.wsgi
+web: gunicorn app:app
